@@ -6,3 +6,12 @@ import time
 import math
 def calc(x):
     return str(abc*12)
+
+link = "http://suninjuly.github.io/explicit_wait2.html"
+
+try:
+    browser = webdriver.Chrome()
+    browser.get(link)
+
+finally:
+    #some comments here
