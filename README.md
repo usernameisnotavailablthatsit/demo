@@ -1,1 +1,2 @@
 # demo
+Autotests with Python.
